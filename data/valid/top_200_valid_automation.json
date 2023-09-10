@@ -1,0 +1,1409 @@
+{
+    "python": [
+        "data analysis",
+        "data science",
+        "machine learning",
+        "data visualization",
+        "data mining"
+    ],
+    "javascript": [
+        "html",
+        "css",
+        "typescript",
+        "apis"
+    ],
+    "continuous integration": [
+        "cd",
+        "jenkins",
+        "ci/cd",
+        "integration testing",
+        "unit testing"
+    ],
+    "sql": [
+        "postgresql",
+        "mysql",
+        "sql server",
+        "data warehouse",
+        "nosql"
+    ],
+    "aws": [
+        "aws ec2",
+        "aws s3",
+        "lambda",
+        "cloud",
+        "cloud security"
+    ],
+    "bing": [
+        "azure",
+        "devops",
+        "cd",
+        "cloud",
+        "cloud security"
+    ],
+    "css": [
+        "html",
+        "javascript",
+        "ui",
+        "ux",
+        "apis"
+    ],
+    "cloud": [
+        "aws",
+        "azure",
+        "devops",
+        "cd",
+        "cloud security"
+    ],
+    "devops": [
+        "aws",
+        "azure",
+        "cd",
+        "cloud",
+        "cloud security"
+    ],
+    "cd": [
+        "aws",
+        "azure",
+        "devops",
+        "cloud",
+        "cloud security"
+    ],
+    "docker": [
+        "kubernetes",
+        "linux",
+        "gcp",
+        "cloud",
+        "cloud security"
+    ],
+    "gcp": [
+        "kubernetes",
+        "docker",
+        "linux",
+        "cloud",
+        "cloud security"
+    ],
+    "linux": [
+        "docker",
+        "kubernetes",
+        "gcp",
+        "cloud",
+        "cloud security"
+    ],
+    "agile": [
+        "scrum",
+        "kanban",
+        "agile",
+        "sdk",
+        "tdd"
+    ],
+    "html": [
+        "css",
+        "javascript",
+        "ui",
+        "ux",
+        "apis"
+    ],
+    "mathematics": [
+        "statistics",
+        "algorithms",
+        "physics",
+        "data science",
+        "data analysis"
+    ],
+    "git": [
+        "continuous integration",
+        "cd",
+        "jenkins",
+        "integration testing",
+        "unit testing"
+    ],
+    "react": [
+        "javascript",
+        "html",
+        "css",
+        "typescript",
+        "apis"
+    ],
+    "typescript": [
+        "javascript",
+        "html",
+        "css",
+        "react",
+        "apis"
+    ],
+    "kubernetes": [
+        "docker",
+        "linux",
+        "gcp",
+        "cloud",
+        "cloud security"
+    ],
+    "postgresql": [
+        "sql",
+        "mysql",
+        "sql server",
+        "data warehouse",
+        "nosql"
+    ],
+    "java": [
+        "springboot",
+        "spring framework",
+        "sdk",
+        "devops",
+        "cd"
+    ],
+    "physics": [
+        "mathematics",
+        "statistics",
+        "algorithms",
+        "data science",
+        "data analysis"
+    ],
+    "azure": [
+        "aws",
+        "devops",
+        "cd",
+        "cloud",
+        "cloud security"
+    ],
+    "electrical engineering": [
+        "mechanical engineering",
+        "computer science",
+        "data science",
+        "data analysis",
+        "data visualization"
+    ],
+    "apis": [
+        "javascript",
+        "html",
+        "css",
+        "php",
+        "jquery"
+    ],
+    "scripting language": [
+        "bash",
+        "shell-scripting",
+        "powershell",
+        "perl",
+        "python"
+    ],
+    "machine learning": [
+        "deep learning",
+        "data science",
+        "python",
+        "python",
+        "tensorflow"
+    ],
+    "mysql": [
+        "sql",
+        "soap",
+        "sql server",
+        "php",
+        "nosql"
+    ],
+    "angular": [
+        "javascript",
+        "html",
+        "css",
+        "typescript",
+        "apis"
+    ],
+    "bash": [
+        "unix shell",
+        "lan",
+        "genomics",
+        "rstudio",
+        "scripting language"
+    ],
+    "operations": [
+        "agile",
+        "communications",
+        "problem solving",
+        "devops",
+        "innovation"
+    ],
+    "business intelligence": [
+        "python",
+        "data warehouse",
+        "qlikview",
+        "data analysis",
+        "cloud"
+    ],
+    "statistics": [
+        "python",
+        "mathematics",
+        "algorithms",
+        "data science",
+        "data analysis"
+    ],
+    "problem solving": [
+        "communications",
+        "agile",
+        "operations",
+        "devops",
+        "innovation"
+    ],
+    "c++": [
+        "ai",
+        "c",
+        "software development lifecycle",
+        "pattern recognition",
+        "matlab"
+    ],
+    "php": [
+        "javascript",
+        "html",
+        "css",
+        "apis",
+        "node.js"
+    ],
+    "software development lifecycle": [
+        "c++",
+        "continuous integration",
+        "cd",
+        "jenkins",
+        "integration testing"
+    ],
+    "innovation": [
+        "communications",
+        "agile",
+        "collaboration",
+        "operations",
+        "problem solving"
+    ],
+    "airflow": [
+        "python",
+        "sql",
+        "spark",
+        "data science",
+        "docker",
+        "saas"
+    ],
+    "data warehouse": [
+        "python",
+        "business intelligence",
+        "javascript",
+        "azure",
+        "aws"
+    ],
+    "collaboration": [
+        "communications",
+        "innovation",
+        "agile",
+        "problem solving",
+        "operations"
+    ],
+    "ai": [
+        "c++",
+        "data analysis",
+        "python",
+        "deep learning",
+        "machine learning"
+    ],
+    "data analysis": [
+        "python",
+        "sas",
+        "power bi",
+        "sql",
+        "tableau"
+    ],
+    "microsoft office": [
+        "python",
+        "mathematics",
+        "statistics",
+        "electrical engineering",
+        "big data"
+    ],
+    "data science": [
+        "python",
+        "machine learning",
+        "sql",
+        "deep learning",
+        "ai"
+    ],
+    "go": [
+        "gcp",
+        "python",
+        "aws",
+        "kubernetes",
+        "devops"
+    ],
+    "leadership": [
+        "communications",
+        "agile",
+        "collaboration",
+        "innovation",
+        "operations"
+    ],
+    "c#": [
+        "angular",
+        "asp.net",
+        "entity framework",
+        "blazor",
+        "sql server",
+        ".net"
+    ],
+    "planning": [
+        "communications",
+        "agile",
+        "collaboration",
+        "innovation",
+        "operations"
+    ],
+    "redux": [
+        "react",
+        "javascript",
+        "typescript",
+        "postgresql",
+        "elasticsearch",
+        "postgresql"
+    ],
+    "shell-scripting": [
+        "linux",
+        "python",
+        "kubernetes",
+        "apis",
+        "bash"
+    ],
+    "ux": [
+        "javascript",
+        "html",
+        "css",
+        "ui",
+        "apis"
+    ],
+    "agriculture": [
+        "python",
+        "statistics",
+        "machine learning",
+        "mathematics",
+        "r"
+    ],
+    "sql server": [
+        "c#",
+        "javascript",
+        "angular",
+        "entity framework",
+        ".net",
+        "asp.net"
+    ],
+    "code reviews": [
+        "typescript",
+        "javascript",
+        "react",
+        "redux",
+        "postgresql"
+    ],
+    "automation": [
+        "devops",
+        "communications",
+        "aws",
+        "ci/cd",
+        "cd"
+    ],
+    "tableau": [
+        "business intelligence",
+        "python",
+        "data analysis",
+        "sas",
+        "qlikview"
+    ],
+    "management": [
+        "communications",
+        "collaboration",
+        "agile",
+        "innovation",
+        "operations",
+        "leadership"
+    ],
+    "algorithms": [
+        "python",
+        "mathematics",
+        "statistics",
+        "data science",
+        "data analysis",
+        "machine learning"
+    ],
+    ".net": [
+        "c#",
+        "angular",
+        "asp.net",
+        "entity framework",
+        "blazor",
+        "sql server",
+        "asp.net"
+    ],
+    "internal medicine": [
+        "gastroenterology",
+        "obstetrics",
+        "neurology",
+        "intensive care medicine",
+        "ophthalmology"
+    ],
+    "saas": [
+        "python",
+        "docker",
+        "sql",
+        "algorithms",
+        "machine learning"
+    ],
+    "medical": [
+        "python",
+        "medical engineering",
+        "ai",
+        "data analysis",
+        "matlab"
+    ],
+    "ci/cd": [
+        "continuous integration",
+        "cd",
+        "devops",
+        "agile",
+        "aws"
+    ],
+    "spark": [
+        "python",
+        "sql",
+        "hadoop",
+        "machine learning",
+        "docker"
+    ],
+    "hadoop": [
+        "python",
+        "sql",
+        "spark",
+        "machine learning",
+        "docker"
+    ],
+    "power bi": [
+        "sql",
+        "data analysis",
+        "python",
+        "tableau",
+        "data visualization"
+    ],
+    "node.js": [
+        "javascript",
+        "react",
+        "css",
+        "html",
+        "apis"
+    ],
+    "ansible": [
+        "continuous integration",
+        "aws",
+        "cd",
+        "scripting language",
+        "kubernetes"
+    ],
+    "written": [
+        "communications",
+        "verbal",
+        "problem solving",
+        "interpersonal communications",
+        "leadership"
+    ],
+    "codebase": [
+        "typescript",
+        "cloud",
+        "code reviews",
+        "gcp",
+        "elasticsearch"
+    ],
+    "webpack": [
+        "react",
+        "typescript",
+        "code reviews",
+        "elasticsearch",
+        "postgresql"
+    ],
+    "powershell": [
+        "sql server",
+        "java",
+        "ssrs",
+        "power bi",
+        "linux"
+    ],
+    "qlikview": [
+        "business intelligence",
+        "tableau",
+        "data analysis",
+        "python",
+        "sas"
+    ],
+    "r": [
+        "python",
+        "machine learning",
+        "statistics",
+        "agriculture",
+        "bash"
+    ],
+    "tensorflow": [
+        "tensorflow",
+        "machine learning",
+        "data science",
+        "algorithms",
+        "docker"
+    ],
+    "neurology": [
+        "obstetrics",
+        "internal medicine",
+        "ophthalmology",
+        "urology",
+        "gastroenterology"
+    ],
+    "obstetrics": [
+        "internal medicine",
+        "neurology",
+        "cardiology",
+        "geriatrics",
+        "trauma surgery"
+    ],
+    "c": [
+        "electrical engineering",
+        "linux",
+        "python",
+        "git",
+        "tcp/ip"
+    ],
+    "big data": [
+        "python",
+        "data mining",
+        "mathematics",
+        "statistics",
+        "physics"
+    ],
+    "analytics": [
+        "communications",
+        "sql",
+        "python",
+        "data analysis",
+        "problem solving"
+    ],
+    "computer science": [
+        "communications",
+        "software development lifecycle",
+        "agile",
+        "python",
+        "problem solving"
+    ],
+    "customer service": [
+        "communications",
+        "operations",
+        "agile",
+        "problem solving",
+        "innovation"
+    ],
+    "interpersonal communications": [
+        "communications",
+        "problem solving",
+        "written",
+        "collaboration",
+        "innovation"
+    ],
+    "data visualization": [
+        "python",
+        "statistics",
+        "machine learning",
+        "scripting language",
+        "r"
+    ],
+    "gitlab": [
+        "continuous integration",
+        "kubernetes",
+        "cd",
+        "aws",
+        "docker"
+    ],
+    "consulting": [
+        "communications",
+        "agile",
+        "innovation",
+        "operations",
+        "problem solving"
+    ],
+    "mechanical engineering": [
+        "mechatronics",
+        "physics",
+        "mathematics",
+        "microsoft office",
+        "electrical engineering"
+    ],
+    "elasticsearch": [
+        "kubernetes",
+        "redis",
+        "postgresql",
+        "react",
+        "typescript"
+    ],
+    "hepatologie": [
+        "gastroenterology",
+        "hepatologie",
+        "intensive care medicine",
+        "internal medicine",
+        "neurology"
+    ],
+    "intensive care medicine": [
+        "internal medicine",
+        "ophthalmology",
+        "gastroenterology",
+        "hepatologie",
+        "cardiology"
+    ],
+    "mechatronics": [
+        "electrical engineering",
+        "python",
+        "physics",
+        "microsoft office",
+        "mechanical engineering"
+    ],
+    "ophthalmology": [
+        "gastroenterology",
+        "intensive care medicine",
+        "internal medicine",
+        "hepatologie",
+        "cardiology"
+    ],
+    "gastroenterology": [
+        "gastroenterology",
+        "intensive care medicine",
+        "internal medicine",
+        "hepatologie",
+        "cardiology"
+    ],
+    "detail oriented": [
+        "communications",
+        "problem solving",
+        "collaboration",
+        "innovation",
+        "sql"
+    ],
+    "nosql": [
+        "devops",
+        "python",
+        "aws",
+        "agile",
+        "java"
+    ],
+    "research": [
+        "communications",
+        "innovation",
+        "planning",
+        "problem solving",
+        "collaboration"
+    ],
+    "json": [
+        "continuous integration",
+        "javascript",
+        "html",
+        "css",
+        "cd"
+    ],
+    "redis": [
+        "elasticsearch",
+        "kubernetes",
+        "postgresql",
+        "cloud",
+        "typescript"
+    ],
+    "sas": [
+        "data analysis",
+        "python",
+        "tableau",
+        "business intelligence",
+        "qlikview"
+    ],
+    "content management systems": [
+        "node.js",
+        "react",
+        "javascript",
+        "php",
+        "docker"
+    ],
+    "xml": [
+        "css",
+        "sql",
+        "javascript",
+        "git",
+        "html"
+    ],
+    "dashboards": [
+        "sql",
+        "python",
+        "docker",
+        "saas",
+        "airflow"
+    ],
+    "software engineering": [
+        "communications",
+        "agile",
+        "software development lifecycle",
+        "aws",
+        "operations"
+    ],
+    "analytical": [
+        "communications",
+        "problem solving",
+        "planning",
+        "interpersonal communications",
+        "agile"
+    ],
+    "scrum": [
+        "continuous integration",
+        "devops",
+        "cloud",
+        "mathematics",
+        "physics"
+    ],
+    "vue.js": [
+        "angular",
+        "react",
+        "javascript",
+        "node.js",
+        "docker"
+    ],
+    "jenkins": [
+        "continuous integration",
+        "cd",
+        "git",
+        "java",
+        "css"
+    ],
+    "cdn": [
+        "continuous integration",
+        "php",
+        "apis",
+        "javascript",
+        "mysql"
+    ],
+    "ui": [
+        "ux",
+        "continuous integration",
+        "apis",
+        "javascript",
+        "cd"
+    ],
+    "jquery": [
+        "javascript",
+        "html",
+        "css",
+        "git",
+        "sql"
+    ],
+    "written and verbal communication": [
+        "communications",
+        "problem solving",
+        "operations",
+        "verbal",
+        "written"
+    ],
+    "snowflake": [
+        "python",
+        "data warehouse",
+        "aws",
+        "azure",
+        "gcp"
+    ],
+    "matlab": [
+        "python",
+        "c++",
+        "ai",
+        "data analysis",
+        "deep learning"
+    ],
+    "wan": [
+        "lan",
+        "python",
+        "linux",
+        "bash",
+        "tcp/ip"
+    ],
+    "deep learning": [
+        "python",
+        "ai",
+        "business intelligence",
+        "data analysis",
+        "c++"
+    ],
+    "data mining": [
+        "python",
+        "big data",
+        "mathematics",
+        "statistics",
+        "physics"
+    ],
+    "cypress": [
+        "javascript",
+        "apis",
+        "typescript",
+        "react",
+        "css"
+    ],
+    "asp.net": [
+        ".net",
+        "c#",
+        "javascript",
+        "sql server",
+        "html"
+    ],
+    "apache subversion": [
+        "git",
+        "python",
+        "linux",
+        "ethernet",
+        "tcp/ip"
+    ],
+    "nginx": [
+        "continuous integration",
+        "ansible",
+        "aws",
+        "scripting language",
+        "docker"
+    ],
+    "ubuntu": [
+        "scripting language",
+        "aws",
+        "cd",
+        "continuous integration",
+        "kubernetes"
+    ],
+    "verbal": [
+        "communications",
+        "written",
+        "interpersonal communications",
+        "written and verbal communication",
+        "problem solving"
+    ],
+    "jira": [
+        "confluence",
+        "git",
+        "sql",
+        "javascript",
+        "html"
+    ],
+    "cloud security": [
+        "aws",
+        "cloud",
+        "python",
+        "azure",
+        "devops"
+    ],
+    "ethernet": [
+        "python",
+        "git",
+        "linux",
+        "tcp/ip",
+        "apache subversion"
+    ],
+    "lan": [
+        "wan",
+        "linux",
+        "python",
+        "bash",
+        "tcp/ip"
+    ],
+    "spring framework": [
+        "aws",
+        "java",
+        "agile",
+        "devops",
+        "azure"
+    ],
+    "entity framework": [
+        ".net",
+        "c#",
+        "sql server",
+        "javascript",
+        "angular"
+    ],
+    "rancher": [
+        "kubernetes",
+        "rancher",
+        "ansible",
+        "cd",
+        "aws"
+    ],
+    "linq": [
+        "c#",
+        "linq",
+        "angular",
+        "javascript",
+        "html"
+    ],
+    "amazon aurora": [
+        "cd",
+        "mysql",
+        "php",
+        "continuous integration",
+        "css"
+    ],
+    "unix shell": [
+        "python",
+        "scripting language",
+        "bash",
+        "machine learning",
+        "data visualization"
+    ],
+    "sdk": [
+        "python",
+        "go",
+        "aws",
+        "devops",
+        "azure"
+    ],
+    "symfony": [
+        "php",
+        "react",
+        "javascript",
+        "vue.js",
+        "laravel"
+    ],
+    "tcp/ip": [
+        "python",
+        "electrical engineering",
+        "linux",
+        "git",
+        "ethernet"
+    ],
+    "genomics": [
+        "machine learning",
+        "python",
+        "bioinformatics",
+        "unix shell",
+        "data visualization"
+    ],
+    "microstrategy": [
+        "snowflake",
+        "business intelligence",
+        "javascript",
+        "python",
+        "data warehouse"
+    ],
+    "reinforcement learning": [
+        "sql",
+        "reinforcement learning",
+        "data science",
+        "machine learning",
+        "hadoop"
+    ],
+    "blazor": [
+        "c#",
+        "blazor",
+        "entity framework",
+        "angular",
+        "css"
+    ],
+    "laravel": [
+        "php",
+        "react",
+        "javascript",
+        "symfony",
+        "vue.js"
+    ],
+    "industrial engineering": [
+        "mechanical engineering",
+        "big data",
+        "microsoft office",
+        "python",
+        "data mining"
+    ],
+    "cardiology": [
+        "trauma surgery",
+        "ophthalmology",
+        "gastroenterology",
+        "obstetrics",
+        "geriatrics"
+    ],
+    "abinitio": [
+        "abinitio",
+        "data warehouse",
+        "business intelligence",
+        "javascript",
+        "microstrategy"
+    ],
+    "automotive engineering": [
+        "automotive engineering",
+        "python",
+        "mechatronics",
+        "physics",
+        "big data"
+    ],
+    "bioinformatics": [
+        "genomics",
+        "machine learning",
+        "python",
+        "unix shell",
+        "data visualization"
+    ],
+    "pattern recognition": [
+        "ai",
+        "c++",
+        "data analysis",
+        "matlab",
+        "python"
+    ],
+    "yii": [
+        "drupal",
+        "laravel",
+        "node.js",
+        "symfony",
+        "vue.js"
+    ],
+    "geriatrics": [
+        "obstetrics",
+        "geriatrics",
+        "trauma surgery",
+        "intensive care medicine",
+        "internal medicine"
+    ],
+    "yocto": [
+        "yocto",
+        "python",
+        "c",
+        "git",
+        "ethernet"
+    ],
+    "medical engineering": [
+        "c++",
+        "python",
+        "ai",
+        "data analysis",
+        "matlab"
+    ],
+    "rstudio": [
+        "rstudio",
+        "machine learning",
+        "unix shell",
+        "data visualization",
+        "scripting language"
+    ],
+    "end to end testing": [
+        "typescript",
+        "react",
+        "cypress",
+        "javascript",
+        "kubernetes"
+    ],
+    "braiding plants": [
+        "python",
+        "unix shell",
+        "data visualization",
+        "scripting language",
+        "rstudio"
+    ],
+    "pulmonology": [
+        "ophthalmology",
+        "urology",
+        "gastroenterology",
+        "cardiology",
+        "otorhinolaryngology"
+    ],
+    "trauma surgery": [
+        "trauma surgery",
+        "ophthalmology",
+        "gastroenterology",
+        "obstetrics",
+        "geriatrics"
+    ],
+    "drupal": [
+        "drupal",
+        "laravel",
+        "node.js",
+        "symfony",
+        "vue.js"
+    ],
+    "urology": [
+        "ophthalmology",
+        "urology",
+        "gastroenterology",
+        "cardiology",
+        "otorhinolaryngology"
+    ],
+    "otorhinolaryngology": [
+        "ophthalmology",
+        "urology",
+        "gastroenterology",
+        "cardiology",
+        "otorhinolaryngology"
+    ],
+    "tdd": [
+        "continuous integration",
+        "software development lifecycle",
+        "git",
+        "linux",
+        "c++"
+    ],
+    "unit testing": [
+        "continuous integration",
+        "code reviews",
+        "angular",
+        "cloud",
+        "typescript"
+    ],
+    "troubleshooting": [
+        "communications",
+        "operations",
+        "automation",
+        "devops",
+        "problem solving"
+    ],
+    "project management": [
+        "communications",
+        "planning",
+        "leadership",
+        "operations",
+        "collaboration"
+    ],
+    "excel": [
+        "communications",
+        "sql",
+        "operations",
+        "microsoft word",
+        "problem solving"
+    ],
+    "business requirements": [
+        "communications",
+        "agile",
+        "collaboration",
+        "devops",
+        "sql"
+    ],
+    "business analytics": [
+        "sql",
+        "data analysis",
+        "data warehouse",
+        "python",
+        "javascript"
+    ],
+    "presentation skills": [
+        "communications",
+        "innovation",
+        "planning",
+        "collaboration",
+        "written"
+    ],
+    "vmware": [
+        "hyper-v",
+        "linux",
+        "powershell",
+        "agile",
+        "sql"
+    ],
+    "governance": [
+        "communications",
+        "problem solving",
+        "leadership",
+        "collaboration",
+        "agile"
+    ],
+    "security clearance": [
+        "communications",
+        "devops",
+        "systems engineering",
+        "operations",
+        "agile"
+    ],
+    "confluence": [
+        "jira",
+        "git",
+        "javascript",
+        "sql",
+        "ux"
+    ],
+    "terraform": [
+        "aws",
+        "continuous integration",
+        "devops",
+        "kubernetes",
+        "cd"
+    ],
+    "reliability": [
+        "communications",
+        "operations",
+        "devops",
+        "continuous integration",
+        "ci/cd"
+    ],
+    "databases": [
+        "communications",
+        "sql",
+        "python",
+        "cd",
+        "agile"
+    ],
+    "writing": [
+        "devops",
+        "communications",
+        "cd",
+        "continuous integration",
+        "aws"
+    ],
+    "software design": [
+        "python",
+        "machine learning",
+        "ai",
+        "mathematics",
+        "physics"
+    ],
+    "data pipelines": [
+        "python",
+        "sql",
+        "spark",
+        "data science",
+        "hadoop"
+    ],
+    "systems engineering": [
+        "communications",
+        "planning",
+        "innovation",
+        "collaboration",
+        "security clearance"
+    ],
+    "aws ec2": [
+        "devops",
+        "amazon rds",
+        "iam",
+        "aws",
+        "vpc"
+    ],
+    "automation technology": [
+        "electrical engineering",
+        "linux",
+        "agile",
+        "scada",
+        "hyper-v"
+    ],
+    "springboot": [
+        "java",
+        "continuous integration",
+        "cd",
+        "react",
+        "git"
+    ],
+    "windows": [
+        "linux",
+        "scripting language",
+        "c++",
+        "java",
+        "unix"
+    ],
+    "palliative care": [
+        "palliative care",
+        "internal medicine",
+        "psychiatry",
+        "neurology",
+        "obstetrics"
+    ],
+    "amazon rds": [
+        "devops",
+        "aws ec2",
+        "aws",
+        "iam",
+        "cloudwatch"
+    ],
+    "restful apis": [
+        "continuous integration",
+        "agile",
+        "aws",
+        "cd",
+        "devops"
+    ],
+    "iam": [
+        "devops",
+        "aws ec2",
+        "amazon rds",
+        "aws",
+        "vpc"
+    ],
+    "decision making": [
+        "communications",
+        "collaboration",
+        "planning",
+        "sql",
+        "innovation"
+    ],
+    "cloud platforms": [
+        "continuous integration",
+        "docker",
+        "cloud",
+        "codebase",
+        "mongodb"
+    ],
+    "installation process": [
+        "communications",
+        "operations",
+        "planning",
+        "troubleshooting",
+        "collaboration"
+    ],
+    "creativity": [
+        "innovation",
+        "communications",
+        "agile",
+        "problem solving",
+        "devops"
+    ],
+    "mongodb": [
+        "continuous integration",
+        "docker",
+        "cloud",
+        "unit testing",
+        "angular"
+    ],
+    "time management": [
+        "communications",
+        "organizational skills",
+        "problem solving",
+        "collaboration",
+        "written"
+    ],
+    "perl": [
+        "python",
+        "linux",
+        "aws",
+        "devops",
+        "bash"
+    ],
+    "organizational skills": [
+        "communications",
+        "time management",
+        "written",
+        "planning",
+        "detail oriented"
+    ],
+    "robotics": [
+        "ai",
+        "python",
+        "mathematics",
+        "physics",
+        "data science"
+    ],
+    "load balancing": [
+        "python",
+        "linux",
+        "devops",
+        "aws",
+        "bash"
+    ],
+    "cloudwatch": [
+        "devops",
+        "aws",
+        "amazon rds",
+        "aws ec2",
+        "aws ecs"
+    ],
+    "scada": [
+        "electrical engineering",
+        "linux",
+        "postgresql",
+        "vmware",
+        "automation technology"
+    ],
+    "aws ecs": [
+        "devops",
+        "aws",
+        "aws ec2",
+        "amazon rds",
+        "vpc"
+    ]
+}
