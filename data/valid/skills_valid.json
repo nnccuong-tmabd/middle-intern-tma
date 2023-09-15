@@ -66,8 +66,8 @@
         "mysql"
     ],
     "css": [
-        "javascript",
         "html",
+        "javascript",
         "mysql",
         "apis",
         "typescript",
