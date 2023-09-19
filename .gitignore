@@ -1,3 +1,5 @@
-fastText_model_augmentation/
+fastTextmodel/
 word2vecmodel/
 smaller_datasets/
+word2vecmodel_1/
+tempmodel/
