@@ -1,0 +1,504 @@
+Training model with parameters: {'vector_size': 100, 'windows_size': 3, 'min_cout': 12, 'sg': 1, 'hs': 0, 'negative': 5, 'ns_exponent': 0.5, 'seed': 1, 'batch_words': 100, 'min_n': 5, 'max_n': 8, 'bucket': 2000000, 'shrink_windows': False, 'alpha': 0.1, 'workers': 6, 'epochs': 200}
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 1/200 - Accuaracy: 0.09715130164007969
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 2/200 - Accuaracy: 0.14082518571296626
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 3/200 - Accuaracy: 0.15990447162516988
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 4/200 - Accuaracy: 0.17037432872844344
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 5/200 - Accuaracy: 0.17658895090316537
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 6/200 - Accuaracy: 0.18075842140680046
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 7/200 - Accuaracy: 0.1839317051287126
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 8/200 - Accuaracy: 0.18654422145693966
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 9/200 - Accuaracy: 0.18846402512237923
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 10/200 - Accuaracy: 0.19014632730343453
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 11/200 - Accuaracy: 0.19078626185858105
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 12/200 - Accuaracy: 0.19247516130309147
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 13/200 - Accuaracy: 0.19309530406787265
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 14/200 - Accuaracy: 0.194335589597435
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 15/200 - Accuaracy: 0.19454010476454367
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 16/200 - Accuaracy: 0.19497552415258151
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 17/200 - Accuaracy: 0.19601129451503516
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 18/200 - Accuaracy: 0.19599809998812492
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 19/200 - Accuaracy: 0.19579358482101625
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 20/200 - Accuaracy: 0.19645331116652812
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 21/200 - Accuaracy: 0.19691511960838645
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 22/200 - Accuaracy: 0.19696789771602738
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 23/200 - Accuaracy: 0.19767380490572511
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 24/200 - Accuaracy: 0.19768699943263535
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 25/200 - Accuaracy: 0.19751547058280225
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Accuracy: 0.19751547058280225
+Training model with parameters: {'vector_size': 100, 'windows_size': 3, 'min_cout': 12, 'sg': 1, 'hs': 0, 'negative': 5, 'ns_exponent': 0.5, 'seed': 1, 'batch_words': 100, 'min_n': 5, 'max_n': 8, 'bucket': 2000000, 'shrink_windows': True, 'alpha': 0.1, 'workers': 6, 'epochs': 200}
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 1/200 - Accuaracy: 0.07666020134848064
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 2/200 - Accuaracy: 0.11823615564263944
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 3/200 - Accuaracy: 0.14177519165050337
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 4/200 - Accuaracy: 0.1555634722717017
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 5/200 - Accuaracy: 0.16395519138661283
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 6/200 - Accuaracy: 0.17012363271714892
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 7/200 - Accuaracy: 0.17444484028025176
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 8/200 - Accuaracy: 0.17782923643272772
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 9/200 - Accuaracy: 0.1797160537808917
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 10/200 - Accuaracy: 0.1819987069363628
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 11/200 - Accuaracy: 0.18454525063003865
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 12/200 - Accuaracy: 0.18531713045428755
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 13/200 - Accuaracy: 0.18647824882238848
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 14/200 - Accuaracy: 0.18825950995527055
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 15/200 - Accuaracy: 0.1896449352808455
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 16/200 - Accuaracy: 0.1897504914961274
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 17/200 - Accuaracy: 0.19103695786987557
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 18/200 - Accuaracy: 0.19184182401140007
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 19/200 - Accuaracy: 0.1922706461359828
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 20/200 - Accuaracy: 0.19284460805657813
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 21/200 - Accuaracy: 0.19294356700840493
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 22/200 - Accuaracy: 0.1936824605153782
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 23/200 - Accuaracy: 0.1940980881130507
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 24/200 - Accuaracy: 0.19390017020939715
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 25/200 - Accuaracy: 0.19456649381836413
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 26/200 - Accuaracy: 0.1946192719260051
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 27/200 - Accuaracy: 0.19590573829975327
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 28/200 - Accuaracy: 0.19541754080407447
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 29/200 - Accuaracy: 0.19585296019211232
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 30/200 - Accuaracy: 0.19575400124028552
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Accuracy: 0.19575400124028552
+Training model with parameters: {'vector_size': 100, 'windows_size': 3, 'min_cout': 12, 'sg': 1, 'hs': 0, 'negative': 5, 'ns_exponent': 0.75, 'seed': 1, 'batch_words': 100, 'min_n': 5, 'max_n': 8, 'bucket': 2000000, 'shrink_windows': False, 'alpha': 0.1, 'workers': 6, 'epochs': 200}
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 1/200 - Accuaracy: 0.09379329454142421
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 2/200 - Accuaracy: 0.13325812452994498
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 3/200 - Accuaracy: 0.15258810645344312
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 4/200 - Accuaracy: 0.16291942102415918
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 5/200 - Accuaracy: 0.17031495335734737
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 6/200 - Accuaracy: 0.17489345419519983
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 7/200 - Accuaracy: 0.17876604784335456
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 8/200 - Accuaracy: 0.18191294251144624
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 9/200 - Accuaracy: 0.1834764939503094
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 10/200 - Accuaracy: 0.1859240786921585
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 11/200 - Accuaracy: 0.18676193115095857
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 12/200 - Accuaracy: 0.18779110424995712
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 13/200 - Accuaracy: 0.1886289567087572
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 14/200 - Accuaracy: 0.19025188351871644
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 15/200 - Accuaracy: 0.19092480439113857
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 16/200 - Accuaracy: 0.1916373088442914
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 17/200 - Accuaracy: 0.19242898045890564
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 18/200 - Accuaracy: 0.19266648194328992
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 19/200 - Accuaracy: 0.19344495903099396
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 20/200 - Accuaracy: 0.19310190133132776
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 21/200 - Accuaracy: 0.1931216931216931
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 22/200 - Accuaracy: 0.19372204409610894
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 23/200 - Accuaracy: 0.19446753486653737
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 24/200 - Accuaracy: 0.1943092005436145
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 25/200 - Accuaracy: 0.19454670202799879
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 26/200 - Accuaracy: 0.1950151077333122
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 27/200 - Accuaracy: 0.19412447716687117
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Accuracy: 0.19412447716687117
+Training model with parameters: {'vector_size': 100, 'windows_size': 3, 'min_cout': 12, 'sg': 1, 'hs': 0, 'negative': 5, 'ns_exponent': 0.75, 'seed': 1, 'batch_words': 100, 'min_n': 5, 'max_n': 8, 'bucket': 2000000, 'shrink_windows': True, 'alpha': 0.1, 'workers': 6, 'epochs': 200}
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 1/200 - Accuaracy: 0.07414664397208039
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 2/200 - Accuaracy: 0.11256910633469237
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 3/200 - Accuaracy: 0.13395743445618757
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 4/200 - Accuaracy: 0.14712557231260473
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 5/200 - Accuaracy: 0.15551729142751586
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 6/200 - Accuaracy: 0.1620815685653591
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 7/200 - Accuaracy: 0.1667458338281281
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 8/200 - Accuaracy: 0.17015661903442453
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 9/200 - Accuaracy: 0.17284170526065787
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 10/200 - Accuaracy: 0.1755861668579873
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 11/200 - Accuaracy: 0.17784902822309306
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 12/200 - Accuaracy: 0.17996015252873107
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 13/200 - Accuaracy: 0.1809761311008194
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 14/200 - Accuaracy: 0.1823549591629392
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 15/200 - Accuaracy: 0.18358205016559132
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 16/200 - Accuaracy: 0.18471018221641664
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 17/200 - Accuaracy: 0.18573935531541516
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 18/200 - Accuaracy: 0.1860692184881711
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 19/200 - Accuaracy: 0.18681470925859953
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 20/200 - Accuaracy: 0.18752721371175238
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 21/200 - Accuaracy: 0.18867513755294305
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 22/200 - Accuaracy: 0.1883056907994564
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 23/200 - Accuaracy: 0.18875430471440446
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 24/200 - Accuaracy: 0.18973069970576206
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 25/200 - Accuaracy: 0.19071369196057475
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 26/200 - Accuaracy: 0.1901001464592487
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 27/200 - Accuaracy: 0.19013973003997942
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 28/200 - Accuaracy: 0.1911820976658882
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 29/200 - Accuaracy: 0.19136022377917639
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 30/200 - Accuaracy: 0.19134043198881104
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Accuracy: 0.19134043198881104
+Training model with parameters: {'vector_size': 100, 'windows_size': 3, 'min_cout': 12, 'sg': 1, 'hs': 0, 'negative': 5, 'ns_exponent': 1, 'seed': 1, 'batch_words': 100, 'min_n': 5, 'max_n': 8, 'bucket': 2000000, 'shrink_windows': False, 'alpha': 0.1, 'workers': 6, 'epochs': 200}
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 1/200 - Accuaracy: 0.07699666178469171
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 2/200 - Accuaracy: 0.11309688741110188
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 3/200 - Accuaracy: 0.13145047434324242
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 4/200 - Accuaracy: 0.1427317948514956
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 5/200 - Accuaracy: 0.14999538191558143
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 6/200 - Accuaracy: 0.1562957685152199
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 7/200 - Accuaracy: 0.1609600337779889
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 8/200 - Accuaracy: 0.16403435854807427
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 9/200 - Accuaracy: 0.16620485822480835
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 10/200 - Accuaracy: 0.16823681536898494
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 11/200 - Accuaracy: 0.16947050363509217
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 12/200 - Accuaracy: 0.17145627993508292
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 13/200 - Accuaracy: 0.17259100924936335
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 14/200 - Accuaracy: 0.17359379329454142
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 15/200 - Accuaracy: 0.17495942682975102
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 16/200 - Accuaracy: 0.1751705392603148
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 17/200 - Accuaracy: 0.17585005739619206
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 18/200 - Accuaracy: 0.17641742205333227
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 19/200 - Accuaracy: 0.1777236802174458
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 20/200 - Accuaracy: 0.17752576231379225
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 21/200 - Accuaracy: 0.17794798717491983
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 22/200 - Accuaracy: 0.17819208592275923
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 23/200 - Accuaracy: 0.17941257966195623
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 24/200 - Accuaracy: 0.17930702344667432
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 25/200 - Accuaracy: 0.17959730303869956
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 26/200 - Accuaracy: 0.17926084260248848
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Accuracy: 0.17926084260248848
+Training model with parameters: {'vector_size': 100, 'windows_size': 3, 'min_cout': 12, 'sg': 1, 'hs': 0, 'negative': 5, 'ns_exponent': 1, 'seed': 1, 'batch_words': 100, 'min_n': 5, 'max_n': 8, 'bucket': 2000000, 'shrink_windows': True, 'alpha': 0.1, 'workers': 6, 'epochs': 200}
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 1/200 - Accuaracy: 0.06160524614389951
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 2/200 - Accuaracy: 0.0927377323886052
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 3/200 - Accuaracy: 0.11286598319017271
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 4/200 - Accuaracy: 0.12633759516552534
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 5/200 - Accuaracy: 0.13511195556083336
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 6/200 - Accuaracy: 0.14176859438704825
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 7/200 - Accuaracy: 0.14731689295280317
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 8/200 - Accuaracy: 0.15096517964348388
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 9/200 - Accuaracy: 0.15475200886672208
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 10/200 - Accuaracy: 0.15686973043581523
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 11/200 - Accuaracy: 0.1587169642032485
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 12/200 - Accuaracy: 0.16153399569858423
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 13/200 - Accuaracy: 0.16328227051419072
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 14/200 - Accuaracy: 0.16446318067265697
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 15/200 - Accuaracy: 0.16577603610022562
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 16/200 - Accuaracy: 0.1668843763606856
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 17/200 - Accuaracy: 0.1676958397656652
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 18/200 - Accuaracy: 0.16961564343110477
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 19/200 - Accuaracy: 0.16943751731781656
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 20/200 - Accuaracy: 0.17063821926664818
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 21/200 - Accuaracy: 0.171792740371294
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 22/200 - Accuaracy: 0.17293406694902955
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 23/200 - Accuaracy: 0.17326393012178548
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 24/200 - Accuaracy: 0.17316497116995871
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 25/200 - Accuaracy: 0.1739368509942076
+WARNING:gensim.models.word2vec:Effective 'alpha' higher than previous training cycles
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Epoch 26/200 - Accuaracy: 0.17387747562311154
+WARNING:gensim.models.fasttext:could not extract any ngrams from 'f#', returning origin vector
+Accuracy: 0.17387747562311154
