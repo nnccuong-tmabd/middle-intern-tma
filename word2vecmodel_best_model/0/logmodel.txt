@@ -1,0 +1,2 @@
+{'vector_size': 100, 'windows_size': 5, 'min_cout': 12, 'sg': 1, 'hs': 1, 'negative': 0, 'ns_exponent': 0, 'seed': 1, 'batch_words': 100, 'shrink_windows': False, 'alpha': 0.025, 'workers': 2, 'epochs': 200}
+0.23107111896617766
